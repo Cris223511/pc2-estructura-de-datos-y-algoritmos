@@ -14,7 +14,7 @@ producto *tab[100];
 void inicio(int n, producto ** tab) {
 	for(int i=0; i<n; i++)
 		tab[i] = NULL;
-}
+} 
 
 void registrar(int n, producto ** tab, int i) {
 	if(i < 0 || i >= n)	{
