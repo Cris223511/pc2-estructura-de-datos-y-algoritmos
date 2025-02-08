@@ -4,12 +4,10 @@
 
 <i>
     <p align="center">
-        This repository contains two structured C++ exercises developed as part of a Qualified Practice. 
-        The exercises focus on **dynamic memory management, structured data handling, and user input processing**. 
-        The first exercise implements a product registration system, leveraging structures and dynamic memory allocation to manage an array of product records efficiently. 
-        The second exercise introduces a personal records management system, incorporating hierarchical data structures to store and modify user-related information, 
-        including personal details and address records. Both implementations emphasize modular programming, error handling, and user interaction, 
-        ensuring a comprehensive understanding of essential C++ programming concepts.
+        This repository contains two structured C++ exercises from a Qualified Practice, focusing on dynamic memory management, structured data handling, and user input processing. 
+        The first exercise implements a product registration system using structures and dynamic memory allocation. 
+        The second exercise develops a personal records management system, incorporating hierarchical data structures for user and address information. 
+        Both exercises emphasize modular programming, error handling, and user interaction, reinforcing key C++ concepts.
     </p>
 </i>
 
